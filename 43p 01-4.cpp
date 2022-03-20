@@ -1,3 +1,5 @@
+//main.cpp, second.cpp, 헤더.h 모두 다른 파일로 저장
+
 //main.cpp
 
 #include"헤더.h"
